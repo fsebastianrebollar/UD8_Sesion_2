@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "4c3f4760-dfa7-418c-b066-19f96510fa37",
+		"name": "Sesión_2/3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13405168"
+	},
+	"item": [
+		{
+			"name": "Guardar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/guardar",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"guardar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Leer",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/guardar",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"guardar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
